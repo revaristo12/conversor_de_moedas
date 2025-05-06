@@ -13,3 +13,9 @@ O Usuario seleciona o numero da moeda que deseja fazer a conversão  e logo apos
 
 Para sair do sistema deve-se diditar a tecla 7 
 
+# DESENVOLVIMENTO: 
+Para trazer os valores das moedas foi usada a api exchangerate-api e a biblioteca Gson para converter o array 
+
+# Classes 
+
+O sistema tem duas classes:  A principal onde ocorre o menu a a ConsultaMoeda que faz a requisição da API e faz o calculo da conversão
